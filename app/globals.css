@@ -107,3 +107,13 @@ body {
 .error {
   color: red;
 }
+
+@keyframes rotation_481 {
+  0% {
+    transform: rotateZ(0deg);
+  }
+
+  0% {
+    transform: rotateZ(360deg);
+  }
+}
